@@ -1,12 +1,12 @@
-` Music Store Analysis Using SQL`
+# ` Music Store Analysis Using SQL`
 
-` Project Overview`
+## ` Project Overview`
 
 The Music Store Analysis project is a SQL-based data analysis project that explores a digital music store database to derive valuable business insights. By analyzing customer behavior, sales trends, artist performance, and music preferences, this project demonstrates how SQL can be used to solve real-world business problems and support decision-making.
 
 The project focuses on writing SQL queries ranging from basic to advanced levels, including joins, subqueries, aggregations, Common Table Expressions (CTEs), and window functions.
 
-` Objectives`
+### ` Objectives`
 1.Analyze music store sales performance.
 
 2.Identify top customers and revenue contributors.
@@ -19,17 +19,17 @@ The project focuses on writing SQL queries ranging from basic to advanced levels
 
 6.Strengthen SQL skills through real-world datasets.
 
-`Technologies Used`
+### `Technologies Used`
 
-.Programming Language
+* Programming Language
 
-.SQL
+* SQL
 
-.Database Management System
+* Database Management System
 
-.MySQL 
+* MySQL 
 
-`Tools`
+### `Tools`
 
 1.MySQL Workbench
 
@@ -37,7 +37,7 @@ The project focuses on writing SQL queries ranging from basic to advanced levels
 
 3.VS Code
 
-`Database Schema`
+### `Database Schema`
 
 The database consists of multiple interconnected tables:
 
@@ -118,7 +118,7 @@ The database consists of multiple interconnected tables:
 
 7.Title
 
- `Project Workflow`
+ ### `Project Workflow`
 1. Database Setup
 Import Music Store database.
 Verify table relationships.
@@ -142,7 +142,8 @@ Customer Analysis
 Sales Analysis
 Artist Analysis
 Genre Analysis
-` Business Questions Solved`
+
+### ` Business Questions Solved`
 1.Easy Level Queries
 
 2.Senior Most Employee
@@ -184,7 +185,7 @@ Genre Analysis
 20.Analyze customer spending patterns.
 
 
-`Advanced Level Queries`
+### `Advanced Level Queries`
 
 1.Amount Spent on Top Artist
 
@@ -206,86 +207,86 @@ Genre Analysis
 
 10.Rank customers and artists based on sales performance.
 
-`Key SQL Concepts Demonstrated`
+### `Key SQL Concepts Demonstrated`
 
-.Data Retrieval
+* Data Retrieval
 
-.SELECT
+* SELECT
 
-.WHERE
+* WHERE
 
-.ORDER BY
+* ORDER BY
 
-.LIMIT
+* LIMIT
 
-.Aggregation Functions
+* Aggregation Functions
 
-.COUNT()
+* COUNT()
 
-.SUM()
+* SUM()
 
-.AVG()
+* AVG()
 
-.MAX()
+* MAX()
 
-.MIN()
+* MIN()
 
-.Joins
+* Joins
 
-.INNER JOIN
+* INNER JOIN
 
-.LEFT JOIN
+* LEFT JOIN
 
-.RIGHT JOIN
+* RIGHT JOIN
 
-.Subqueries
+* Subqueries
 
-.Nested Queries
+* Nested Queries
 
-.Correlated Subqueries
+* Correlated Subqueries
 
-.Common Table Expressions (CTEs)
+* Common Table Expressions (CTEs)
 
-.WITH Clause
+* WITH Clause
 
-.Recursive Queries
+* Recursive Queries
 
-.Window Functions
+* Window Functions
 
-.RANK()
+* RANK()
 
-.DENSE_RANK()
+* DENSE_RANK()
 
-.ROW_NUMBER()
+*ROW_NUMBER()
 
-`Sample Insights`
-Customer Insights
-Top customers contribute a significant portion of revenue.
-Certain countries have higher customer spending patterns.
-Sales Insights
-Revenue is concentrated among a few popular genres.
-Seasonal trends may affect music purchases.
-Artist Insights
-A small number of artists generate most sales.
-Rock music dominates customer preferences.
-Genre Insights
-Popular genres vary across countries.
-Genre preferences influence purchasing behavior.
+### `Sample Insights`
+* Customer Insights
+* Top customers contribute a significant portion of revenue.
+* Certain countries have higher customer spending patterns.
+* Sales Insights
+* Revenue is concentrated among a few popular genres.
+* Seasonal trends may affect music purchases.
+* Artist Insights
+* A small number of artists generate most sales.
+* Rock music dominates customer preferences.
+* Genre Insights
+* Popular genres vary across countries.
+* Genre preferences influence purchasing behavior.
 
-Expected Outcomes
-Improved understanding of customer behavior.
-Identification of top-performing artists and genres.
-Enhanced SQL querying skills.
-Data-driven recommendations for business growth.
-Better decision-making through analytical insights.
+### Expected Outcomes
+* Improved understanding of customer behavior.
+* Identification of top-performing artists and genres.
+* Enhanced SQL querying skills.
+* Data-driven recommendations for business growth.
+* Better decision-making through analytical insights.
 
- Future Enhancements
-Build Power BI dashboard for visualization.
-Develop interactive SQL reports.
-Integrate Python for advanced analytics.
-Create sales forecasting models.
-Implement recommendation systems based on customer preferences.
+###  Future Enhancements
+* Build Power BI dashboard for visualization.
+* Develop interactive SQL reports.
+* Integrate Python for advanced analytics.
+* Create sales forecasting models.
+* Implement recommendation systems based on customer preferences.
 
- Conclusion
+### Conclusion
 
 The Music Store Analysis Using SQL project showcases the power of SQL in extracting meaningful insights from relational databases. Through customer, sales, artist, and genre analysis, the project demonstrates how data can be transformed into actionable business intelligence. It serves as an excellent hands-on project for strengthening SQL fundamentals and analytical thinking.
